@@ -66,6 +66,11 @@ label #cancel {
     display: none;
 }
 
+h1 {
+    margin-left: 90px;
+    margin-top: 60px;
+}
+
 @media (max-width: 1118px) {
     nav img {
         left: 8%;
